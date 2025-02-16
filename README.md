@@ -4,7 +4,7 @@ The "Cross-Platform File & Folder Naming Standards" is a naming convention desig
 
 This guideline enhances file management efficiency, reduces cross-platform compatibility issues, and ensures that files can be shared, transferred, or synced across different systems without errors.
 
-# แนวทางการตั้งชื่อไฟล์ที่รองรับทั้ง Windows และ Linux
+---
 
 ## 1. หลีกเลี่ยงตัวอักษรต้องห้าม
 - **Windows** และ **Linux** มีข้อกำหนดที่แตกต่างกัน แต่ถ้าต้องการให้ใช้งานได้ทั้งสองระบบ ให้หลีกเลี่ยงตัวอักษรเหล่านี้:
